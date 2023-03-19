@@ -1,0 +1,2 @@
+# DL-HW1
+FNN with MNIST
